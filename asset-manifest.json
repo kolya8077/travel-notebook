@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kolya8077/travel-notebook/static/css/main.b5320759.css",
+    "main.js": "/kolya8077/travel-notebook/static/js/main.405ecec2.js",
+    "index.html": "/kolya8077/travel-notebook/index.html",
+    "main.b5320759.css.map": "/kolya8077/travel-notebook/static/css/main.b5320759.css.map",
+    "main.405ecec2.js.map": "/kolya8077/travel-notebook/static/js/main.405ecec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.405ecec2.js"
+  ]
+}
