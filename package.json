@@ -2,7 +2,7 @@
   "name": "travel-notebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kolya8077.github.io/travel-notebook/",
+  "homepage": "https://github.com/kolya8077/travel-notebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
